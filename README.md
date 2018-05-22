@@ -22,4 +22,6 @@ Stack GAN was introduced by Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xia
 *	pandas
 *	torchfile
 
+Download [bird dataset](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html).
+
 #### Note: Running the code on CPU takes considerably long time as mentioned in the paper to train stage-I and Stage-II for 600 epochs would take less time running on GPU.
