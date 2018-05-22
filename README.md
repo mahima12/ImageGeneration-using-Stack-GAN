@@ -8,15 +8,15 @@ Stack GAN was introduced by Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xia
 * The input text is converted into text embedding using [Skipthought vector](https://arxiv.org/abs/1506.06726)
 
 ## Implementation details
-Dependencies:
-•	Python 3.6.0
-•	Tensorflow 1.7.0
-•	Cuda v9.0 (For GPU computations)
-Extra packages installed:
-•	prettytensor
-•	progressbar
-•	easydict
-•	pandas
-•	torchfile
+###Dependencies:
+*	Python 3.6.0
+*	Tensorflow 1.7.0
+*	Cuda v9.0 (For GPU computations)
+###Extra packages installed:
+*	prettytensor
+*	progressbar
+*	easydict
+*	pandas
+*	torchfile
 
-Note: Running the code on CPU takes considerably long time as mentioned in the paper to train stage-I and Stage-II for 600 epochs would take less time running on GPU.
+####Note: Running the code on CPU takes considerably long time as mentioned in the paper to train stage-I and Stage-II for 600 epochs would take less time running on GPU.
