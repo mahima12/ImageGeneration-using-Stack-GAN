@@ -9,13 +9,13 @@ Stack GAN was introduced by Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xia
 
 ## Implementation details
 
-###Dependencies:
+### Dependencies:
 *	Python 3.6.0
 *	Tensorflow 1.7.0
 *	Cuda v9.0 (For GPU computations)
 
 
-###Extra packages installed:
+### Extra packages installed:
 *	prettytensor
 *	progressbar
 *	easydict
