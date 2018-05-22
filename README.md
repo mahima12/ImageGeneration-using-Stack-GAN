@@ -8,10 +8,13 @@ Stack GAN was introduced by Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xia
 * The input text is converted into text embedding using [Skipthought vector](https://arxiv.org/abs/1506.06726)
 
 ## Implementation details
+
 ###Dependencies:
 *	Python 3.6.0
 *	Tensorflow 1.7.0
 *	Cuda v9.0 (For GPU computations)
+
+
 ###Extra packages installed:
 *	prettytensor
 *	progressbar
